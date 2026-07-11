@@ -1,0 +1,5 @@
+[package]
+name = "capsules"
+version = "0.1.0"
+edition = "2021"
+description = "Capsules — WASI-based micro-container runtime for isolated apps"
