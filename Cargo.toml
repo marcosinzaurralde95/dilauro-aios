@@ -1,0 +1,10 @@
+[workspace]
+resolver = "2"
+members = [
+    "kernel",
+    "dam-engine",
+    "synapse-fs",
+    "capsules",
+    "neural-shield",
+    "hut",
+]
