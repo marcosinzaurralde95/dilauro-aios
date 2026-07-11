@@ -1,0 +1,5 @@
+[package]
+name = "synapse-fs"
+version = "0.1.0"
+edition = "2021"
+description = "SynapseFS — semantic filesystem with vector search and contextual metadata"
