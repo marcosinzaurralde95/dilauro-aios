@@ -1,0 +1,5 @@
+[package]
+name = "neural-shield"
+version = "0.1.0"
+edition = "2021"
+description = "Neural Shield — ML-powered heuristic security layer"
