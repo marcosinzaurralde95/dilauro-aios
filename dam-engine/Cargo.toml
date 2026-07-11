@@ -1,0 +1,5 @@
+[package]
+name = "dam-engine"
+version = "0.1.0"
+edition = "2021"
+description = "Dynamic Adaptive Memory Engine — real-time resource optimization"
