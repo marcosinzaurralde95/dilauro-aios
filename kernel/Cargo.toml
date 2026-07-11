@@ -1,0 +1,18 @@
+[package]
+name = "dilauro-kernel"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "dilauro-kernel"
+path = "src/main.rs"
+
+[dependencies]
+# Bare-metal dependencies will go here
+# e.g. bootloader, x86_64, spin, pic8259
+
+[profile.dev]
+panic = "abort"
+
+[profile.release]
+panic = "abort"
