@@ -1,0 +1,5 @@
+[package]
+name = "hut"
+version = "0.1.0"
+edition = "2021"
+description = "HUT — Hardware Universal Translator for cross-architecture binary compatibility"
